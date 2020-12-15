@@ -2,8 +2,8 @@
 #  mail:
 #    host: smtp.gmail.com
 #    port: 25
-#    username: wisdom.nkoah@stu.ucc.edu.gh
-#    password: 0547351485w
+#    username: <MAIL>
+#    password:  <PASSWORD>
 #    properties:
 #      mail:
 #        smtp:
